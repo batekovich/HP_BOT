@@ -1,0 +1,37 @@
+{
+  "click_success": "👆 Вы сделали {normal_name}! Всего: {count}",
+  "click_cooldown": "⏳ ПОДОЖДИТЕ!",
+  "superclick_cooldown": "⏳ ПОДОЖДИТЕ ПЕРЕД СЛЕДУЮЩИМ ПЕЧАТИ ЧЛЕНОВ БЫСТРО!",
+  "superclick_success": "💥 НАПЕЧАТАТЬ ЧЛЕНОВ БЫСТРО УСПЕШНО!",
+  "superclick_fail": "❌ ПЕЧАТАТЬ ЧЛЕНЫ БИСТРА - ЭТО НЕВЕРОЯТНО ПРИЯТНО\n НО У ТЕБЯ НЕ ПОЛУЧИЛОСЬ ЕГО НАПЕЧАТАТЬ ПОТОМУ ЧТО У ТЕБЯ ДРАЙВЕРЫ ГОВНО!\nГАНДОН БЛЯ\nНЕ БУДЕТ ТЕБЕ БЫСТРОГО ПЕЧАТИ ЧЛЕНОВ",
+  "timeleft_click": "⏳ ДО СЛЕДУЮЩЕГО ПЕЧАТИ ДОКУМЕНТОВ {time}",
+  "timeleft_super": "⏳ ДО СЛЕДУЮЩЕГО ПЕЧАТИ ЧЛЕНОВ БИСТРА {time}",
+  "timeleft_sosatel": "⏳ ДО СЛЕДУЮЩЕГО ОТПРАВКИ ФАКСА {time}",
+
+  "invite_message": "📢 ВАС ПОЗВАЛИ ПЕЧАТАТЬ НА HP ПРИНТЕРЕ🖨️",
+  "invite_accept": "✅ ПРИНЯТЬ",
+  "invite_decline": "❌ ОТКАЗАТЬСЯ",
+  "invite_expired": "⌛ ИДИ НАХУЙ ПИДОРАС",
+  "invite_click": "👆 НАЕЧАТАЛ НА ХП ДОКУМЕНТЫ!🖨️",
+  "invite_superclick": "💥 НАПЕЧАТАЛ НА ХП ДОКУМЕНТЫ БИСТРA!",
+  "invite_declined_toast": "ИДИ НАХУЙ ПИДОРАС",
+  "invite_declined_text": "Вы отказались.",
+
+  "top_header": "🏆 Топ {type}: \n\n",
+  "top_entry": "{index}. {name} — {count}",
+  "top_empty": "Пока никто не играл.",
+
+  "profile_header": "👤 Профиль {user}\n\n🥭 НАПЕЧАТАНЫХ ДОКУМЕНТОВ: {normal}\n🎈 БЫСТРО НАПЕЧАТАНЫХ ДОКУМЕНТОВ: {fast}\n🍉 БЫСТРО НАПЕЧАТАНЫХ ДОКУМЕНИОВ but cooler: {super}\n🥤 ОТПРАВОК ФАКСОВ: {sosatel}\n✨ {exp_name}: {exp}",
+
+  "invest_usage": "⛔ Укажите верный формат: /invest количество часы",
+  "invest_positive_amount": "⛔ Количество для инвестиции должно быть больше нуля.",
+  "invest_hours_range": "⛔ Срок должен быть от {min_h} до {max_h} часов.",
+  "invest_not_enough": "⛔ Недостаточно {normal_name} для инвестиций.",
+  "invest_created": "💰 {name}, вы вложили {amount} {normal_name} на {hours} ч!",
+  "invest_status_empty": "⛔ У вас нет активных инвестиций!",
+  "invest_status_header": "📊 Ваши активные инвестиции:",
+  "invest_status_line": "{index}. {amount} {normal_name} — осталось {time}",
+
+  "invest_finished_fail": "💣 {name}, инвестиция на {amount} {normal_name} прогорела.",
+  "invest_finished_success": "💰 {name}, вы заработали {profit} {normal_name}! (x{multiplier})"
+}
